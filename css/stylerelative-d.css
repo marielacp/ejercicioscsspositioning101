@@ -1,0 +1,14 @@
+#box_1 {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background: #44accf;
+    left: 200px;
+}
+
+#box_2 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: #4b4dd8;
+}
